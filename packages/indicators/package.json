@@ -1,6 +1,6 @@
 {
     "name": "@react-financial-charts/indicators",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "description": "Indicators for react-financial-charts",
     "publishConfig": {
         "access": "public"
@@ -44,5 +44,6 @@
     "peerDependencies": {
         "react": "^16.0.0 || ^17.0.0 || ^18.0.0",
         "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
-    }
+    },
+    "gitHead": "14b2563466112e866ae91bc43e4be3977b9fcac7"
 }

@@ -1,6 +1,6 @@
 {
     "name": "@react-financial-charts/axes",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "description": "Axes for react-financial-charts",
     "publishConfig": {
         "access": "public"
@@ -38,7 +38,7 @@
         "watch": "tsc -p tsconfig.json --watch --preserveWatchOutput"
     },
     "dependencies": {
-        "@react-financial-charts/core": "file:../core",
+        "@react-financial-charts/core": "^2.0.3",
         "@types/d3-scale": "^3.2.2",
         "d3-array": "^2.9.1",
         "d3-force": "^2.1.1",
@@ -48,5 +48,6 @@
     "peerDependencies": {
         "react": "^16.0.0 || ^17.0.0 || ^18.0.0",
         "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
-    }
+    },
+    "gitHead": "14b2563466112e866ae91bc43e4be3977b9fcac7"
 }

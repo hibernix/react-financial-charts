@@ -1,6 +1,6 @@
 {
     "name": "@react-financial-charts/annotations",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "description": "Annotations for react-financial-charts",
     "publishConfig": {
         "access": "public"
@@ -26,7 +26,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/reactivemarkets/react-financial-charts.git"
+        "url": "https://github.com/reactivemarkets/react-financial-chartsx.git"
     },
     "bugs": {
         "url": "https://github.com/reactivemarkets/react-financial-charts/issues"
@@ -42,7 +42,8 @@
         "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
     },
     "dependencies": {
-        "@react-financial-charts/core": "file:../core",
+        "@react-financial-charts/core": "^2.0.3",
         "@types/d3-scale": "^3.2.2"
-    }
+    },
+    "gitHead": "14b2563466112e866ae91bc43e4be3977b9fcac7"
 }
