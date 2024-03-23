@@ -1,6 +1,6 @@
 {
   "name": "root",
-  "private": true,
+  "private": false,
   "license": "MIT",
   "scripts": {
     "postinstall": "npm run bootstrap",
